@@ -1,7 +1,7 @@
 <template>
   <div class="sms-page">
     <div class="brand">
-      <img src="/logo.png" class="logo" v-if="logoExist" />
+      <img src="/logo.svg" class="logo" v-if="logoExist" />
       <div class="brand-title">信通 XTone</div>
       <div class="brand-desc">安全 · 极速 · 匿名</div>
     </div>
